@@ -35,7 +35,7 @@ Python, pandas, scikit-learn, matplotlib, NumPy
 ## Usage
 ```bash
 # Clone and run
-git clone https://github.com/[your-username]/boston-housing-regression.git
+git clone https://github.com/tommypotts/boston-housing-regression.git
 cd boston-housing-regression
 jupyter notebook boston_housing_regression_analysis.ipynb
 ```
